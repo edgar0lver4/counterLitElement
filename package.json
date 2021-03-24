@@ -1,0 +1,17 @@
+{
+  "name": "litElementCounter",
+  "version": "1.0.0",
+  "description": "Simple counter",
+  "main": "index.js",
+  "author": "Edgar Andrei Olvera Veaslco",
+  "license": "MIT",
+  "scripts":{
+    "start": "parcel index.html --no-cache --open"
+  },
+  "dependencies": {
+    "lit-element": "^2.4.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
